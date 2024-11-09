@@ -1,0 +1,14 @@
+{
+  "name": "william-cai.github.io",
+  "version": "1.0.0",
+  "description": "菜卷online docs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
